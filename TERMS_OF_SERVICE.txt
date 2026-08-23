@@ -1,0 +1,33 @@
+TERMS OF SERVICE — CHRIS FAMOUS UPLOADER
+===============================================
+Last updated: [FILL IN DATE WHEN YOU PUBLISH THIS]
+
+Chris Famous Uploader is a personal automation tool built and operated by
+its owner (Chris Haggerty) for the sole purpose of publishing the owner's
+own original video content to the owner's own TikTok and YouTube
+accounts.
+
+This application is not offered as a public service, is not available
+for use by any third party, and does not accept sign-ups, registrations,
+or accounts from any outside user. It has no other users besides its
+owner and operator.
+
+By nature of its single-user, personal-use design, there are no terms
+governing third-party use because no third party is permitted to use
+this application.
+
+All content published through this tool is original content created and
+reviewed by the owner prior to publishing.
+
+CONTACT
+Questions about this application can be directed to: [YOUR EMAIL ADDRESS]
+
+-----------------------------------------------------------------
+NOTE TO CHRIS (delete this section before publishing):
+Same note as the privacy policy — this accurately reflects what you've
+actually built (a personal single-user tool, not a public product), which
+is the honest and correct thing to submit. If you ever do move toward the
+"productize and sell this" idea we talked about earlier, this document
+would need a real rewrite at that point, since it would no longer be
+describing a single-user personal tool.
+-----------------------------------------------------------------

@@ -1,0 +1,60 @@
+PRIVACY POLICY — CHRIS FAMOUS UPLOADER
+=============================================
+Last updated: [FILL IN DATE WHEN YOU PUBLISH THIS]
+
+This Privacy Policy describes how Chris Famous Uploader ("the app," "this
+tool") handles data. This is a personal-use application built and operated
+by a single individual (Chris Haggerty, operating the "Chris Famous"
+content channel) for the sole purpose of publishing my own original video
+content to my own TikTok and YouTube accounts.
+
+WHO THIS APPLIES TO
+This app is not available to the public and is not offered as a service
+to any third party. It is used exclusively by its owner/operator to
+manage their own personal content accounts.
+
+WHAT DATA THIS APP ACCESSES
+- OAuth authentication tokens issued by TikTok and YouTube, used solely
+  to authorize this app to publish video content to the owner's own
+  connected accounts.
+- Video files, titles, descriptions, and tags created by the owner for
+  their own content, generated locally to prepare content for publishing.
+- Basic channel/account analytics (such as subscriber counts, view
+  counts, and posting-time recommendations) retrieved from the owner's
+  own connected accounts, used only to inform the owner's own content and
+  scheduling decisions.
+
+WHAT THIS APP DOES NOT DO
+- This app does not collect, access, or store data belonging to any
+  TikTok or YouTube user other than its owner.
+- This app does not share, sell, or transfer any data to third parties.
+- This app does not serve advertising or use collected data for
+  advertising purposes.
+- This app does not offer login, sign-up, or account access to any
+  outside user.
+
+DATA STORAGE
+Authentication tokens and content files are stored locally on the
+owner's own personal computer and are not transmitted to any third-party
+server beyond the minimum necessary API calls to TikTok and YouTube
+required to publish content and retrieve the owner's own account data.
+
+DATA RETENTION AND DELETION
+The owner may revoke this app's access to their TikTok or YouTube account
+at any time through TikTok's or YouTube's own account settings, which
+immediately invalidates all stored authentication tokens.
+
+CONTACT
+Questions about this policy can be directed to: [YOUR EMAIL ADDRESS]
+
+-----------------------------------------------------------------
+NOTE TO CHRIS (delete this section before publishing):
+This is a starting draft, not a substitute for legal review. It's written
+honestly and accurately for what the app actually does based on
+everything we've built together, but a real privacy policy is still a
+legal document. If you want extra confidence before submitting this
+publicly, it wouldn't hurt to have it glanced over, but for a small
+personal-use tool like this, this level of clarity and honesty is
+generally what these platforms are actually checking for: does the
+policy accurately describe real data handling, not legal perfection.
+-----------------------------------------------------------------
